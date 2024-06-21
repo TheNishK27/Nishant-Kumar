@@ -1,4 +1,3 @@
-# Nishant-Kumar
 # 💫 About Me:
 **About Me**<br><br>I'm a passionate web developer with a strong background in HTML, CSS, and JavaScript. I create dynamic, user-friendly web applications and continuously expand my skills in modern web technologies. This repository showcases my projects and coding expertise. Explore my work to see my commitment to clean code, responsive design, and innovative solutions.
 
